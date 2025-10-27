@@ -82,7 +82,8 @@ _Add your UI screenshots here (like Home page, Product page, etc.)_
 
 Example:
 ```
-![Grocy Home Page](./screenshots/home.png)
+![UI Screenshot](public/images/ui-screenshot.png)
+
 ```
 
 ---
