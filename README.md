@@ -71,7 +71,7 @@ grocy/
 
 5. **Open in your browser**
    ```
-   http://localhost:5173
+   https://thegrocy.vercel.app/
    ```
 
 ---
