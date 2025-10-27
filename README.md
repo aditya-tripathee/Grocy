@@ -82,7 +82,8 @@ _Add your UI screenshots here (like Home page, Product page, etc.)_
 
 Example:
 ```
-![UI Screenshot](public/images/ui-screenshot.png)
+[UI Screenshot](public/images/ui-screenshot.png)
+
 
 ```
 
