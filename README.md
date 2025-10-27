@@ -101,7 +101,7 @@ Example:
 
 ## 👨‍💻 Author
 
-**Adii**  
+**Aditya Tripathi**  
 💼 *Frontend Developer | React Enthusiast*    
 🌐 https://github.com/aditya-tripathee
 
