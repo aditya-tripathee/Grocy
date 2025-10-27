@@ -102,9 +102,8 @@ Example:
 ## 👨‍💻 Author
 
 **Adii**  
-💼 *Frontend Developer | React Enthusiast*  
-📧 [Your Email or Portfolio Link]  
-🌐 [Your GitHub or LinkedIn Link]
+💼 *Frontend Developer | React Enthusiast*    
+🌐 https://github.com/aditya-tripathee
 
 ---
 
