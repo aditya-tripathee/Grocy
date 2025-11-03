@@ -82,7 +82,8 @@ _Add your UI screenshots here (like Home page, Product page, etc.)_
 
 Example:
 ```
-[UI Screenshot](public/images/ui-screenshot.png)
+<img width="1911" height="908" alt="ui-screenshot" src="https://github.com/user-attachments/assets/df9570e1-cdeb-4338-a085-de3ffaf1e8fe" />
+
 
 
 ```
